@@ -1,0 +1,19 @@
+{
+  "name": "es5task87",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task87.js",
+  "scripts": {
+    "test": "jasmine spec/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
