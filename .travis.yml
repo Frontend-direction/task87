@@ -6,6 +6,3 @@ node_js:
   - "6"
 install:
   - "npm install"
-script:
-  - "npm run eslint"
-  - "npm test"
