@@ -4,7 +4,8 @@
   "description": "",
   "main": "task87.js",
   "scripts": {
-    "test": "jasmine spec/*.js"
+    "test": "jasmine spec/*.js",
+    "eslint": "./node_modules/.bin/eslint ./app/*.js"
   },
   "author": "",
   "license": "ISC",
