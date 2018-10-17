@@ -5,7 +5,7 @@
   "main": "task87.js",
   "scripts": {
     "test": "jasmine spec/*.js",
-    "eslint": "./node_modules/.bin/eslint ./app/*.js"
+    "eslint": "./node_modules/.bin/eslint task87.js"
   },
   "author": "",
   "license": "ISC",
